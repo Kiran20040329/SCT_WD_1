@@ -28,7 +28,7 @@ This is a **modern and interactive** landing page with a **fixed navigation menu
 
 1. 📥 **Download** or **clone** the repository.
    ```sh
-   git clone https://github.com/Kiran20040329/SCT_WD_1/tree/main.git
+   git clone https://github.com/Kiran20040329/SCT_WD_1.git
    ```
 2. 🌍 **Open** `index.html` in your browser.
 
